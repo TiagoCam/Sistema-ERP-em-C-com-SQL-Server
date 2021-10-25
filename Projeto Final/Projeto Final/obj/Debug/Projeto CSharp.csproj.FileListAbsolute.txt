@@ -1,0 +1,14 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.frmAtendente.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.frmCliente.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.FrmMenu.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Login.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.principal.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Properties.Resources.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto CSharp.csproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto CSharp.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Projeto Final\Projeto Final\Projeto Final\obj\Debug\Projeto CSharp.csproj.AssemblyReference.cache
