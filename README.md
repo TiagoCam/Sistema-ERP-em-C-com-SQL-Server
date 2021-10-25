@@ -1,4 +1,4 @@
-# Sistema-ERP-em-C-com-SQL-Server
+# Sistema-ERP-em-C#-com-SQL-Server
 Sistema ERP completo em C#, com banco de dados SQL Server.
 
 <h3>Tela Login</h3>
